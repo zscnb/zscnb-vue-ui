@@ -2,7 +2,6 @@
   <button class="zscnb-button" @click="emit('onClick')">
     <slot />
   </button>
-  <div>asfasd</div>
 </template>
 
 <script>
