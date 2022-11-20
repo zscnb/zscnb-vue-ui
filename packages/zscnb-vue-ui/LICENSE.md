@@ -20,7 +20,7 @@ lerna create myapp(组件名)
 
 详见 deploy.sh
 
-# 发布 npm
+# 发布 npm 上
 
 ```bash
 lerna publish
